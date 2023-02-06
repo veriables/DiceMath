@@ -7,7 +7,6 @@ Then, we view various results alongside math notes and example calculations.
 ![XOR 3 Outcome](./images/Xor_3.png)
 
 ## Installation
-If you have docker installed, you can skip down to the "Installation with Docker" section.
 
 ### Python
 This is a Python application, so you'll need Python installed.  Check to see if it is already installed by opening a terminal window/command prompt and executing:
@@ -24,7 +23,7 @@ If you're reading this README, then you're already on GitHub so just click the "
 `cd veriables_projects`
 
 Then, download the project with:
-`git clone https://github.com/veriables/tkhtmlview.git`
+`git clone https://github.com/veriables/DiceMath.git`
 
 ### Dependencies
 This software uses a few libraries that might not be installed on your system.  Here's a list of them presented as a pip command that you can execute to install them:
